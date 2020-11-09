@@ -3,7 +3,7 @@
 
 int main()
 {
-    mt::Exception("Saturation interval is ill defined")
+    mt::Exception("Saturation interval is ill defined");
 
     return 0;
 }
